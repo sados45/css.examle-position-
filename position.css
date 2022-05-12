@@ -1,0 +1,35 @@
+#first{
+background-color:red;
+width:100px;
+height:100px;
+border:1px solid blue;
+display:inline-block;
+position:absolute;
+left:210px;
+top:210px;
+}
+#second{
+background-color:green;
+width:100px;
+height:100px;
+border:1px solid blue;
+position:relative;
+
+}
+
+#third{
+background-color:blue;
+width:100px;
+height:100px;
+border:1px solid blue;
+position:absolute;
+left:110px;
+
+
+}
+
+div{
+    border:1px solid black;
+    width:500px;
+    height:500px;
+}
